@@ -15,12 +15,12 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.19.2",
-    "gatsby-plugin-image": "^2.19.0",
-    "gatsby-plugin-sharp": "^4.19.0",
-    "gatsby-source-wordpress": "^6.19.0",
-    "gatsby-transformer-sharp": "^4.19.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "gatsby": "^5.0.0",
+    "gatsby-plugin-image": "^3.0.0",
+    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-source-wordpress": "^7.0.0",
+    "gatsby-transformer-sharp": "^5.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }

@@ -7,7 +7,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        url: "https://dev-ss-gatsby-test.pantheonsite.io/graphql",
+        url: "https://live-sayeems-gql-cache-playground.pantheonsite.io/graphql",
       },
     },
   ],

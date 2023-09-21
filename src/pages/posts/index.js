@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby";
 
 const Index = (props) => {
   const posts = props.data.allWpPost.nodes;
+  console.log(posts);
   return (
     <div>
       {posts.map((post) => (
